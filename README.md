@@ -10,3 +10,13 @@ Release builds are builds of this datapack that are going to be used in the serv
 ## Developer Builds
 
 Developer builds are test versions/builds of the datapack. Usually, suggestions go through the Developer builds first and then are added or rejected. Developer builds are less stable than the release builds and are **RARELY** used in the server.
+
+## Current Features:
+
+- Blacklisted items/blocks
+- Freeze player function
+- Custom Commands
+
+## TODO
+
+[] - More mod commands
