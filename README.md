@@ -20,3 +20,9 @@ Developer builds are test versions/builds of the datapack. Usually, suggestions 
 ## TODO
 
 - [ ] More mod commands
+- [ ] Expand player guide
+- [ ] More user commands (stuff like a friend system maybe?)
+
+## Datapack/Server Suggestions
+
+https://github.com/vrified-stupd/cooldatapack/issues
