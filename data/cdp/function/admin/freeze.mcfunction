@@ -1,0 +1,1 @@
+$effect give $(player) slowness $(s) 255 true
