@@ -19,4 +19,4 @@ Developer builds are test versions/builds of the datapack. Usually, suggestions 
 
 ## TODO
 
-- [] More mod commands
+- [ ] More mod commands
