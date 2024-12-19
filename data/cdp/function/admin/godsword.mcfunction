@@ -1,0 +1,1 @@
+give @s blaze_rod[custom_name='["",{"text":"God Sword","italic":false}]',enchantments={levels:{fire_aspect:255,knockback:255,sharpness:255,vanishing_curse:1,breach:255,density:253}}]
